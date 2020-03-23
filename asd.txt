@@ -1,5 +1,3 @@
-ABC nhanh mater tff
-<<<<<<< HEAD
  12345
  3456
  345467
@@ -12,5 +10,4 @@ ABC nhanh mater tff
  002
 sadsad
  ádasd fdghfhgh  fhh
-=======
->>>>>>> master
+
