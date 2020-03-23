@@ -10,8 +10,4 @@ ABC nhanh mater tff
  ádasd
  002
 sadsad
-<<<<<<< HEAD
  ádasd fdghfhgh  fhh
-=======
- ádasd
->>>>>>> master
